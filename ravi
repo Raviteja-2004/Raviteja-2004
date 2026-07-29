@@ -1,196 +1,237 @@
 <h1 align="center">
-  Hi 👋, I'm <b>YADA UGESH</b>
+  Hi 👋, I'm <b>Ravi Teja Gourishetti</b>
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=YADA%20UGESH&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20Developer%20|%20Backend%20Developer&descAlignY=58"/>
-</p>
-
 <h3 align="center">
-Software Engineer | AI & Backend Developer | Android Developer
+Software Engineer | Python Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-Software Engineering enthusiast with hands-on experience in AI applications, backend development, Android development, and full-stack project
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=280&section=header&text=RAVI%20TEJA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Python%20Developer%20|%20AI%20Enthusiast&descAlignY=58"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ugesh123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Python+Developer;Generative+AI+Engineer;LLM+%7C+RAG+Developer;Backend+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=ugesh123&theme=algolia&margin-w=15&margin-h=15"/>
-</a>
+Passionate Software Engineer with expertise in <b>Python, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Machine Learning, and Backend Development.</b><br>
+I enjoy designing intelligent AI-powered applications, developing scalable backend systems, and solving real-world challenges through clean, efficient, and innovative software solutions.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech in Computer Science Engineering (2026)
-- 💼 Software Engineer with experience in Backend Development, AI Systems and Android Development
-- 🤖 Building AI-powered Multi-Agent Applications using LangGraph, LangChain and FastAPI
-- 🌱 Currently learning LLM Engineering, Agentic AI, RAG and Cloud Technologies
-- 🚀 Interested in Software Engineering, AI Engineering and Backend Development roles
-- 📫 Email: **ugeshyada@gmail.com**
+🎓 B.Tech Computer Science Engineering (2022 – 2026)
+
+💻 Software Engineer passionate about building scalable software and intelligent AI applications.
+
+🤖 Experienced in Python, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering, LangChain, Hugging Face, and Machine Learning.
+
+⚡ Skilled in developing REST APIs, backend services, automation scripts, and AI-powered applications.
+
+🌱 Currently exploring Agentic AI, LangGraph, Advanced RAG Systems, Cloud Computing, and Scalable Backend Architecture.
+
+🎯 Looking for opportunities as a
+
+- Software Engineer
+- Python Developer
+- AI Engineer
+- Backend Developer
+- Machine Learning Engineer
+
+📧 **Email:** gourishettiraviteja@gmail.com
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-## 💻 Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,mysql" />
-</p>
-
-## ⚡ Backend & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Automation-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
 </p>
 
 ---
 
-## 🌐 Web Development
+### AI • Machine Learning • LLM
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<p align="center">
+<img src="https://img.shields.io/badge/Generative_AI-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Large_Language_Models-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-0891B2?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📱 Android Development
+### Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/XML-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQLite-blue?style=for-the-badge"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
 </p>
 
 ---
 
-## ☁️ Cloud & Tools
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 ---
 
-## 🛠 Databases
+### Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Keras-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📚 Core Computer Science
+### Tools
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Operating Systems
-- Computer Networks
-- SQL
-- REST APIs
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
 # 🌟 Featured Projects
 
-## 🤖 AI Multi-Agent Software Engineering Assistant
+## 📄 Python Document Search & Question Answering System
 
-- LangGraph
-- FastAPI
-- AI Workflow Automation
-- Multi-Agent Architecture
-- Intelligent Project Generation
-- Session Management
-- ZIP Export
+✔ Retrieval-Augmented Generation (RAG)
 
----
+✔ LangChain Integration
 
-## 🏦 Banking Management System
+✔ FAISS Vector Database
 
-- Python
-- MySQL
-- Transaction Processing
-- Account Management
-- Database Integration
+✔ Semantic Search
+
+✔ Document Intelligence
+
+✔ Prompt Engineering
+
+✔ Large Language Models
 
 ---
 
-## 💪 Fast Fitness Android App
+## 🤖 AI Chat Assistant
 
-- Java
-- Android Studio
-- SQLite
-- XML
-- Workout Tracking
-- Stopwatch & Countdown
+✔ Intelligent Conversational AI
+
+✔ REST API Integration
+
+✔ Prompt Engineering
+
+✔ Context-Aware Responses
+
+✔ Python Backend
+
+✔ Clean Modular Architecture
 
 ---
 
 # 🏆 Certifications
 
-- 🥇 Microsoft Azure AI Fundamentals (AI-900)
-- ☁️ AWS Academy Cloud Foundations
-- 📘 NPTEL – Theory of Computation
+🥇 Microsoft Certified: Azure Fundamentals (AZ-900)
+
+☁ AICTE AWS Virtual Internship
 
 ---
 
-# 🏅 Achievements
+# 📚 Core Skills
 
-- 🏆 Top 4 – SR University Hackathon
-- 🎖 NCC B & C Certificates (Alpha Grade)
-- 🌄 Represented Warangal Region at NCC Trekking Camp
-- 🎓 Vice Chancellor's Certificate of Appreciation
-- 🏅 HOD Appreciation Award
+✔ Object-Oriented Programming
+
+✔ Data Structures & Algorithms
+
+✔ REST APIs
+
+✔ SQL
+
+✔ Backend Development
+
+✔ Machine Learning
+
+✔ Natural Language Processing
+
+✔ Prompt Engineering
+
+✔ Software Development Life Cycle
+
+✔ Git & GitHub
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ugesh123&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugesh123&layout=compact&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ugesh123&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/Ugesh123">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="mailto:gourishettiraviteja@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:ugeshyada@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
@@ -198,5 +239,11 @@ Software Engineering enthusiast with hands-on experience in AI applications, bac
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to connect and collaborate on exciting Software Engineering & AI projects.
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+Let's build innovative software, AI-powered solutions, and impactful technology together. 🚀
 </p>
